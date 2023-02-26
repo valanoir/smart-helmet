@@ -8,16 +8,14 @@ Helmets are the first line of defence aginst injuries.Miners face difficulties d
 
 To overcome this we can incorpate a smart solution with miners jacket and helmet.
 Smart helmet can be developed that is able to detect of hazardous events in the mines industry. In the development of helmet, we have considered the three main types of hazards such as:
-Air quality
-Sos
+Air quality,
+Sos,
 Collision Detection
 
 # HELMET DESIGN:
 ![image](https://user-images.githubusercontent.com/64421745/221422582-06964a16-dc1f-42b3-b9d1-6911bc202a32.png)
-
 # JACKET DESIGN:
 ![image](https://user-images.githubusercontent.com/64421745/221422575-f2d707ae-2e15-47fe-bc3c-b8d4035ffcb3.png)
-
 
 # BLOCK DIAGRAM 
 ![image](https://user-images.githubusercontent.com/64421745/221422642-e56fcfc3-c31e-4769-9d9c-a39944e279bb.png)
